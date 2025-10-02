@@ -7,3 +7,4 @@ print(f"Your favourite color is {favourite_colour} and your hobby is {favourite_
 Place = input("What is your favourite place? ")
 pet = input("What is your favourite animal? ")
 print(f"Your favourite place is {Place} and your favourite animal is {pet}. ")
+print(f"Your name is {name}, Your favourite colour is {favourite_colour}, Your hobby is {favourite_hobby}, Your favourite place is {Place}, Your favourite animal is {pet}. ")
